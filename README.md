@@ -1,7 +1,3 @@
-要创建一个独特且个性化的 GitHub README，你可以在灵感来源的基础上进行修改，以反映你自己的个性和专业特点。以下是一个根据你提供的样板修改的示例：
-
----
-
 # 👋 Hey there!
 
 Welcome to my space on GitHub! Here's where I blend creativity with code.
